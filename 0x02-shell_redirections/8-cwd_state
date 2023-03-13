@@ -1,0 +1,3 @@
+#!/bin/bash
+cwd_state
+#!/bin/bash ls -la > ls_cwd_content
